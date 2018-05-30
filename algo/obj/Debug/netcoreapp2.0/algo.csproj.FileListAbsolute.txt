@@ -1,0 +1,11 @@
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.csprojResolveAssemblyReference.cache
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.csproj.CoreCompileInputs.cache
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.AssemblyInfoInputs.cache
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.AssemblyInfo.cs
+C:\Users\Le_ma\source\repos\algo\algo\bin\Debug\netcoreapp2.0\algo.deps.json
+C:\Users\Le_ma\source\repos\algo\algo\bin\Debug\netcoreapp2.0\algo.runtimeconfig.json
+C:\Users\Le_ma\source\repos\algo\algo\bin\Debug\netcoreapp2.0\algo.runtimeconfig.dev.json
+C:\Users\Le_ma\source\repos\algo\algo\bin\Debug\netcoreapp2.0\algo.dll
+C:\Users\Le_ma\source\repos\algo\algo\bin\Debug\netcoreapp2.0\algo.pdb
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.dll
+C:\Users\Le_ma\source\repos\algo\algo\obj\Debug\netcoreapp2.0\algo.pdb
